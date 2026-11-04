@@ -2,6 +2,13 @@
 
 **A customizable, terminal-based screen-break reminder built in Python.**
 
+
+## Video Demonstration
+
+[Watch My Tired Eyes Project Presentation (10 minutes)](https://youtu.be/SUfNT46Fnfc)
+
+This video explains the purpose of Tired Eyes, walks through the Python code, and demonstrates the application. It highlights functions, list management, input validation, error handling, and timer automation.
+
 I developed Tired Eyes independently as my final project for an introductory Python programming course in 2026. I also created a video presentation to explain the problem, the program structure, and a live demonstration.
 
 ## Why I built it
